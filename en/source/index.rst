@@ -7,6 +7,6 @@ This is the documentation for `Heltec Automation <https://heltec.org>`_ products
 
 .. toctree::
    :hidden:
-   :caption: Language
+   :caption: Cloud Server
    
-   简体中文 <https://heltec-automation.readthedocs.io/zh_CN/latest/index.html>
+    Quick Start <quick_start>
