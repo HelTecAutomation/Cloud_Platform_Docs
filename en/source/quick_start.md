@@ -1,6 +1,6 @@
 # Cloud Server Quick Start
 
-[简体中文](https://heltec-automation.readthedocs.io/zh_CN/latest/quick_start.html)
+[简体中文](https://cloud-platform-docs-zh-cn.readthedocs.io/en/latest/quick_start.html)
 
 ## Summary
 
