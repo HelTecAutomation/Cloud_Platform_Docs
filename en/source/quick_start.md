@@ -6,9 +6,11 @@
 
 Cloud Server is a simple and fully functional LoRa cloud server. This page shows how to use this cloud server quickly.
 
-## Create Base Configuration
+```Tip:: Official website account, forum account and cloud server account can be logged in after activation.
 
-### Login/Register
+```
+
+## Login/Register
 
 Open the  ``Browser``, enter the URL  [http://cloud.heltec.org](http://cloud.heltec.org)，you will see the following interface，click ``Register/Login`` 。
 
@@ -20,13 +22,13 @@ If you already have a [heltec.org](https://heltec.org) account, you can enter th
 
 ![](./img/quick_start/03.png)
 
-### Select Frequency Band
+## Select Frequency Band
 
 After entering the paltform, select the regional frequency band you need, such as ``AS923`` .
 
 ![](./img/quick_start/04.png)
 
-### Create Gateway
+## Create Gateway
 
 Click ``Gateways``->``GatewaysCreate`` ，Select the ``GENERAL`` menu and fill in the corresponding information. The following three options are required and the remaining options are optional. Finally, slide to the bottom of the page and click  ``CREATE GATEWAY`` to complete the gateway creation. Here is an example.
 
@@ -38,7 +40,7 @@ Click ``Gateways``->``GatewaysCreate`` ，Select the ``GENERAL`` menu and fill i
 
 
 
-### Create Application
+## Create Application
 
 Click ``Apps``->``AppsCreate`` ， fill in the corresponding information. The following two options are required and the remaining options are optional. Click ``CREATE APPLICATION`` to complete creation. Here is an example.
 
@@ -46,7 +48,7 @@ Click ``Apps``->``AppsCreate`` ， fill in the corresponding information. The fo
 
 ![](./img/quick_start/11.png)
 
-### Create Device
+## Create Device
 
 Click ``Apps``->``AppsList`` ，You will see the application we created before (the ``AppName`` in the example)，and click it.
 
