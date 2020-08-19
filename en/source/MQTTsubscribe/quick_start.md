@@ -18,7 +18,7 @@ Click the button shown below to configure the connection information.
 
 ![](./img/01.png)
 
-Enter the information, where ``Broker Address`` is the server address corresponding to [selected frequency band](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id3) ,the port number is ``1883`` ，select ``User Credentials`` to enter [account and password](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id2)，and click ``OK`` . 
+Enter the information, where ``Broker Address`` is the server address corresponding to [selected frequency band](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id3) ,the port number is ``1883`` ，select ``User Credentials`` to enter [account and password](https://cloud-platform-docs-zh-cn.readthedocs.io/zh/latest/quick_start.html#id2)，and click ``OK`` (**Note: the account currently only supports the user name format, not the email format.**). 
 
 ![](./img/02.png)
 
