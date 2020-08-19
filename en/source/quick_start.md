@@ -21,6 +21,9 @@ If you already have a [heltec.org](https://heltec.org) account, you can enter th
 ![](./img/quick_start/02.png)
 
 ![](./img/quick_start/03.png)
+```Tip:: If you still cannot log in after successful registration, you can try to log out of the account and log in again.
+
+```
 
 ## Select Frequency Band
 
