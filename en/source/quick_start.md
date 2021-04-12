@@ -67,8 +67,7 @@ Select ``GENERAL``  menu， fill in the corresponding information，The followin
 
 ![](./img/quick_start/15.png)
 
-
-
 Fill in the required ``Key`` or ``LoRa Protocol`` information according to the selected  ``Device-profile`` option. For example, in this example, select ``Device-profile`` as ``OTAA/CLASS-A`` , as shown below：
 
 ![](./img/quick_start/17.png)
+
